@@ -2,10 +2,10 @@
 
 ## Hi there 👋
 
-You have found the  **testing** :construction_worker: org for Pangeo Forge.
-This is where we develop and test the backend application for https://pangeo-forge.org.
+This is the  **testing** :construction_worker: org for Pangeo Forge,
+where we test new versions of our backend application.
 
-To create cloud-optimized ocean :ocean:, weather :sun_behind_rain_cloud:, and climate science :earth_africa:,
+To create cloud-optimized ocean :ocean:, weather :sun_behind_rain_cloud:, and climate data :earth_africa:,
 you're probably looking for https://github.com/pangeo-forge.
 
 <!--
